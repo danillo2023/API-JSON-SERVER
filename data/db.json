@@ -1,0 +1,67 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "nome": "Jogos ps5",
+      "valor": "250"
+    },
+    {
+      "nome": "sonic ps3",
+      "valor": "100",
+      "id": 3
+    },
+    {
+      "nome": "mortal kombat 1 ps3",
+      "valor": "100",
+      "id": 4
+    },
+    {
+      "nome": "mortal kombat 2 ps3",
+      "valor": "120",
+      "id": 5
+    },
+    {
+      "nome": "Deus da Guerra",
+      "valor": "150",
+      "id": 6
+    }
+  ],
+  "vendas": [
+    {
+      "nome": "Deus da Guerra",
+      "valor": "150",
+      "cartao": true,
+      "id": 4
+    },
+    {
+      "nome": "Marvel 1",
+      "valor": "150.00,",
+      "cartao": "false",
+      "id": 5
+    },
+    {
+      "nome": "Homem Aranha",
+      "Valor": "25,00",
+      "Cartao": "true",
+      "id": 6
+    },
+    {
+      "nome": "Aranha plus 1",
+      "valor": "99,99",
+      "cartão": "true",
+      "id": 7
+    },
+    {
+      "nome": "Aranha plus 1",
+      "valor": "90,00",
+      "cartão": "false",
+      "id": 8
+    },
+    {
+      "nome": "Super man",
+      "valor": "90,00",
+      "cartão": "false",
+      "id": 9
+    }
+  ]
+}
